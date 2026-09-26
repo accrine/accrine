@@ -1,8 +1,10 @@
-### Hi, I'm Mikhail Kudravets
+### Hi, I'm Michael (Mikhail) Kudravets
 
-Lead AI / Backend Engineer · Python · TypeScript · AWS · RAG · HealthTech (HIPAA)
+**Lead AI / Backend Engineer & Delivery Lead** | Python · TypeScript · AWS · LLM Agents & RAG | HealthTech (HIPAA, FHIR)
 
-[LinkedIn](https://www.linkedin.com/in/michael-kudravets)
+I build AI products and I run the delivery around them.
+
+[LinkedIn](https://www.linkedin.com/in/michael-kudravets/)
 
 ## Certifications
 
